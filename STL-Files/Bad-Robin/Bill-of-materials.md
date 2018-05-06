@@ -3,11 +3,11 @@
 ### All files and information provided here is licensed under the GNU PUBLIC LICENSE 
 Make sure you understand the license requirements and implications before moving on.
 
-##IMPORTANT NOTE: This is a work in progress
+## IMPORTANT NOTE: This is a work in progress
 Things are likely to change anytime without prior notice !!!!
 
 
-###Bill of materials
+### Bill of materials
 
 - You need each and every stl file printed once, the feet 3 times.
 - You need T-Nuts with M3, M5, and M6 screws in various sizes and lengths.
