@@ -12,14 +12,25 @@ A simple to build 3D printer with a combined X/Y stage.
 This printer can be used with very high accuracy as well as with very heavy print head assemblies,
 because the print head does not move except in the Z-direction.
 
+( Robin is licensed under Creative Commons CC0 )
+
 ### Robin Plus
 The Rob Plus 3D printer is build with an inverted-H-assembly, not unlike a coreXY setup, but
 all steppers are connected along a single line, giving the printer a sleek but sturdy frame.
-Hence the name Robin Plus - the timing belts form the plus shape.
+Hence the name Robin Plus - the timing belt forms the plus shape.
 The Z-Axis can be built with either a single or a double-sided crane. The double-sided setup
 is much less prone to vibrations, while the single-sided setup is very simple and good to
-use as an educational sample.
+use as an educational example.
 
+( Robin Plus is licensed under Creative Commons CC0 )
+
+### Bad Robin
+Bad Robin is the smaller brother of the Big Bad Robin 3D printer. Both printers share the same
+parts, only the aluminium profiles and the linear rails change in size - all other parts stay the same.
+Bad Robin has a very low parts count, a high resolution and can go very fast. It is also very affordable
+with the 250mm rails version costing around 250 Euros in non-printed parts.
+
+( Bad Robin is licensed under GPLv2 )
 
 
 ## Images
@@ -40,3 +51,7 @@ use as an educational sample.
 ![Image](3D-Robins-Images/IMG_1621.png?raw=true)
 
 ![Image](3D-Robins-Images/IMG_1622.png?raw=true)
+
+### Bad Robin
+
+![Image](3D-Robins-Images/BR-v1-Image.png?raw=true)
