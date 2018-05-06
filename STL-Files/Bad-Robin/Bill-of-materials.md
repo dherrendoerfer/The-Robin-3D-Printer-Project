@@ -32,3 +32,9 @@ You need to source:
 - 10x Bearings 5x11x5
 - M6 threaded rod 440mm and 290mm long
 
+### Print settings for the 3D printed parts
+* With 0.4mm nozzle diameter and PLA use 30% infill and 3 shell layers at least
+* With 0.3mm nozzle diameter and PLA use 35% infill and 4 shell layers at least
+* Use brim
+* Use higher temp and low print speed for good layer-bond.
+* Use a drill to bring each hole to required bore diameter
