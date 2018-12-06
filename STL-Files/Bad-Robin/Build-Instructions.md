@@ -111,7 +111,9 @@ sure that the guide sits on the nut tightly. Insert a 18mm M3 screw into the cou
 and into the guide and fix with a M3 nut.
 
 Install the 11x5x5mm bearing into the Z-axis idler, or insert the ball bearing ball into 
-the rod hole (depending on the type of idler you are using)
+the rod hole (depending on the type of idler you are using). Make sure that the lower edge
+facing the profile is very clean, so the idler sits snug on the lower profile and the 
+bearing to the threaded rod has no play.
 
 Place the decoupler on the rod and insert the rod onto the idler. Slip the decoupler onto
 two screws protruding fron the X-axis rail, the decouplers screw should be on the side of
@@ -258,7 +260,8 @@ Use cable wrap to fix the cables together.
 Cut the cables to optimal length and add female connectors to the stepper and sensor 
 cables.
 
-Download and transfer the Repetier firmware to the Arduino.
+Download and transfer the Repetier firmware to the Arduino. Use the firmware from this repo,
+as the construction of the extruder requires a modified version of the Repetier firmware.
 
 ## Part 21: Connect the display unit
 
