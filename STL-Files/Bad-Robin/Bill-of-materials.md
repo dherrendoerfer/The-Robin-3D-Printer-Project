@@ -21,11 +21,12 @@ You need to source:
 - 3x Stepper motors NEMA17 bipolar
 - 1x Threaded rod TR8 350mm long
 - 1x Threaded rod nut TR8
+- 1x Shaft coupler 5mm to 8mm
 - 1x Kit Arduino+Ramps+Graphic-Display+Stepsticks
 - 1x Tevo Titan extruder driver kit with stepper
 - 1x V6 J-Type Hotend with sensor and heater
 - 2x Flat pushbutton end-switches
-- 2x Timing belts with 2xdriver (T2)
+- 2x Timing belts with 2x driver (T2)
 - 1x Turbine Fan
 - 1x Inductive proximity switch
 - 1x Rod-Connection 5mm to 8mm
@@ -38,3 +39,4 @@ You need to source:
 * Use brim
 * Use higher temp and low print speed for good layer-bond.
 * Use a drill to bring each hole to required bore diameter
+* Make sure to clean up all the edges of the prints before assembly.
