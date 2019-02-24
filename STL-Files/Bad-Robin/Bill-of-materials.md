@@ -31,7 +31,7 @@ You need to source:
 - 2x Flat pushbutton end-switches
 - 2x Timing belts with 2x driver (T2)
 - 1x Turbine Fan
-- 1x Inductive proximity switch NPN, NO(normally open)
+- 1x Inductive proximity switch PNP, NO(normally open)
 - 1x Rod-Connection 5mm to 8mm
 - 10x Bearings 5x11x5mm
 - M6 threaded rod 440mm and 290mm long
