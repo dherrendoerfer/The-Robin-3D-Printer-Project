@@ -297,10 +297,10 @@ Connect the steppers (pins left to right)
 Connect the temp sensor to T0
 
 
-Connect the extruder heater to E0
+Connect the extruder heater to D10
 
 
-Connect the extruder fan to E1, watch the polarity !
+Connect the extruder fan to D9, watch the polarity !
 
 
 ## Part 23: Test motors and switches
