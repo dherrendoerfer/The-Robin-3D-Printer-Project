@@ -52,6 +52,8 @@ with the 250mm rails version costing around 250 Euros in non-printed parts.
 
 ![Image](3D-Robins-Images/IMG_1622.png?raw=true)
 
-### Bad Robin
 
-![Image](3D-Robins-Images/BR-v1-Image.png?raw=true)
+Donations:  
+If you would like to make a donation to keep this project and others going you can do so at:  
+https://www.paypal.me/dherrendoerfer  
+This helps a lot !
