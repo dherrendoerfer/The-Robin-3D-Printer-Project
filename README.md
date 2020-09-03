@@ -30,8 +30,9 @@ parts, only the aluminium profiles and the linear rails change in size - all oth
 Bad Robin has a very low parts count, a high resolution and can go very fast. It is also very affordable
 with the 250mm rails version costing around 250 Euros in non-printed parts.
 
-( Bad Robin is licensed under GPLv2 )
-
+( Bad Robin is licensed under GPLv2 )  
+The Bad Robin project got its own repo and now lives here:  
+https://github.com/dherrendoerfer/The-Bad-Robin-3D-Printer
 
 ## Images
 
